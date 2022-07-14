@@ -1,0 +1,25 @@
+.highlight {
+  background-color: rgb(108, 110, 194);
+}
+.navbar-style {
+  background-color: rgb(189, 28, 149) !important;
+}
+.green-highlight {
+  color: green;
+  font-size: 40px;
+}
+.dodgerblue-highlight {
+  color: dodgerblue;
+  font-size: 25px;
+}
+.cyan-highlight {
+  color: cyan;
+  font-size: 35px;
+}
+.red-highlight {
+  color: red;
+  font-size: 30px;
+}
+.hand-icon{
+  cursor: pointer;
+}
